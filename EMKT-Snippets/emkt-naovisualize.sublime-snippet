@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+<tr>
+	<td height="50" colspan="3" align="center" style="font-size: 12px; text-align: center; color: #575757; font-family: Arial, Helvetica, sans-serif;">
+		Caso n&atilde;o visualize este e-mail, <a href="$1" style="color: #575757; font-size: 12px; text-decoration: underline;">clique aqui</a>.
+	</td>
+</tr>
+]]></content>
+	<description>EMKT Caso Não Visualize</description>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>emkt:caso</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>
