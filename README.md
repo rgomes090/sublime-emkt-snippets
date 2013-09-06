@@ -17,4 +17,4 @@ Installation
 Usage
 ----------------------
 
-Simply type ```html emkt``` on HTML file and Ctrl+SpaceBar to list all options of snippets.
+Simply type ```emkt``` on HTML file and Ctrl+SpaceBar to list all options of snippets.
