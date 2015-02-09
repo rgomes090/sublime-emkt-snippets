@@ -8,8 +8,8 @@ Installation
 ---------------------
 
 - 1. Install [Package Control](https://sublime.wbond.net/installation);
-- 2. After access Command Palette (On Sublime Text menu: *Tools>Command Palette...*) and choice for *Package Control: Add Repository* command;
-- 3. Add **https://github.com/rgomes090/sublime-emkt-snippets** to repositories.
+- 2. Access Command Palette (On Sublime Text menu: *Tools > Command Palette...*) and choice for *Package Control: Add Repository* command;
+- 3. Add `https://github.com/rgomes090/sublime-emkt-snippets` to repositories.
 - 4. Access Command Palette again and search for command *Package Control: Install Package*.
 - 5. Search for **EMKT Snippets** on list and install.
 - 6. Be happy =).
